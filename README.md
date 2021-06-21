@@ -1,7 +1,7 @@
 - 👋 Hi, Mostly code playground @autocatalytic
 - 👀 I’m interested in investing, blockchain, Rust, Kusama and transportation
 - 🌱 I’m currently learning Substrate@Parity
-- 💞️ I’m looking to collaborate on Web3, Reducing externalities, expanding access to people
+- 💞️ I’m looking to collaborate on Web3, injecting comedy into the tragedy of the commons, and expanding economic opportunity
 - 📫 How to reach me ...probably here.
 
 <!---
