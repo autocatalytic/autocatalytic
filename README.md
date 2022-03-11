@@ -1,6 +1,6 @@
 - 👋 Hi, code playground @autocatalytic
 - 👀 Interested in investing, blockchain, Rust, and moneyness
-- 📜 DevOps & BizOps founder with an exit
+- 📜 DevOps & BizOps founder with one exit
 - 🌱 Currently learning Solana with Rust and Anchor
 - 💞️ Comic relief in the tragedy of commons
 - 🎯 Positive sum mindset builder
