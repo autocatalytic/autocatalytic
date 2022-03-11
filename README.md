@@ -1,4 +1,4 @@
-- 👋 Hi, code playground @autocatalytic
+- 👋 Hi, code playground for cooperation systems
 - 👀 Interested in markets, sharing, Rust, and moneyness
 - 📜 DevOps & BizOps founder with one exit
 - 🌱 Currently learning Solana, Rust and Anchor
