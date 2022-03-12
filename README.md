@@ -1,5 +1,5 @@
-- 👋 Hi, code playground for cooperation systems
-- 👀 Interested in markets, sharing, Rust, and moneyness
+- 👋 Hi
+- 👀 Interested in markets, sharing, coding, and moneyness
 - 📜 DevOps & BizOps founder with one exit
 - 🌱 Currently learning Solana, Rust and Anchor
 - 💞️ Comic relief in the tragedy of commons
