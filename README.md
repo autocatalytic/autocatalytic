@@ -1,9 +1,9 @@
 - 👋 Hi
 - 👀 Interested in markets, sharing, coding, and moneyness
-- 📜 DevOps & BizOps founder with one exit
-- 🌱 Currently learning Solana, Rust and Anchor
-- 💞️ Comic relief in the tragedy of commons
 - 🎯 Positive sum mindset builder & competitor
+- 📜 DevOps & BizOps founder with one exit
+- 💞️ Comic relief in the tragedy of commons
+- 🌱 Studying Solana, Rust and Anchor
 
 <!---
 autocatalytic/autocatalytic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
