@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 Interested in markets, sharing, and moneyness
+- 👀 Love markets, teams, sharing, and moneyness
 - 🎯 Positive sum mindset builder & competitor
 - 📜 DevOps & BizOps founder with one exit
 - 💞️ Comic relief in the tragedy of commons
