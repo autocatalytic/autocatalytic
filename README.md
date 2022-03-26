@@ -1,9 +1,9 @@
 - 👋 Hi
 - 👀 Love markets, teams, sharing, and moneyness
 - 🎯 Positive sum mindset builder & competitor
-- 📜 DevOps & BizOps founder with one exit
-- 💞️ Comic relief in the tragedy of commons
-- 🌱 Studying Typescript and Rust, pretending to use Anchor
+- 📜 Engineer and exited DevOps/BizOps founder
+- 💞️ Any relief amidst the tragedy of the commons
+- 🌱 Studying Rust, Substrate and Anchor
 
 <!---
 autocatalytic/autocatalytic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
