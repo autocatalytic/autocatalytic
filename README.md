@@ -1,7 +1,7 @@
 - 👋
-- 👀 Love markets, teams, GreenPill, and moneyness
-- 📜 Engineer and exited DevOps/BizOps founder
-- 🌱 Rust, TypeScript and Anchor
+- 👀 Love markets, teams, and moneyness
+- 📜 Engineer and exited web2 founder
+- 🌱 Rust, Android and Anchor
 
 <!---
 autocatalytic/autocatalytic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
