@@ -1,7 +1,7 @@
 - 👋
 - 👀 Love markets, teams, and moneyness
 - 📜 Engineer and exited web2 founder
-- 🌱 Rust, Android and Anchor
+- 🌱 Rust, Solana, Saga, Backpack
 
 <!---
 autocatalytic/autocatalytic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
