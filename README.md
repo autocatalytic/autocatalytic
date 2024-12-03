@@ -1,5 +1,5 @@
 - 👋
-- 👀 Love markets, teams, and moneyness
+- 👀 Love markets, teams, and crypto
 - 📜 Engineer and exited web2 founder
 - 🌱 Rust, Solana, Saga, Backpack
 
