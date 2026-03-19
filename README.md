@@ -1,5 +1,5 @@
-- 👋
-- 👀 Love markets, teams, and crypto
+- 👋 Building Extol
+- 👀 Love markets, teams, and growth
 - 📜 Engineer and exited web2 founder
 - 🌱 Rust, Solana, Saga, Backpack
 
