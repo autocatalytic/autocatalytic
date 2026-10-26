@@ -1,7 +1,7 @@
 - 👋 Building Extol
 - 👀 Love markets, teams, and growth
 - 📜 Engineer and exited web2 founder
-- 🌱 Rust, Solana, Saga, Backpack
+- 🌱 Rust, Solana, Backpack
 
 <!---
 autocatalytic/autocatalytic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
